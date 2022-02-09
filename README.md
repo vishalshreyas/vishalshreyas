@@ -1,12 +1,12 @@
 
-<!-- <h1 align="center"> Hey, I'm Sourav  👋</h1> -->
+<!-- <h1 align="center"> Hey, I'm Vishal Shreyas T  👋</h1> -->
 
 <!-- <h3 align="center">An enthusiastic Backend developer <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/285/man-technologist_1f468-200d-1f4bb.png" width="30" height = "30"></h3> -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F78437&lines=Hi+%F0%9F%91%8B%2C+I'm+Sourav👨🏻‍💻;An+enthusiast+Backend+developer+&#128526;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F78437&lines=Hi+%F0%9F%91%8B%2C+I'm+Vishal+Shreyas👨🏻‍💻;An+enthusiast+Backend+developer+&#128526;)](https://git.io/typing-svg)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rav8657&label=Profile%20views&color=0e75b6&style=flat"
-        alt="sourav kumar shukla" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vishalshreyas&label=Profile%20views&color=0e75b6&style=flat"
+        alt="Vishal Shreyas T" /> </p>
 
 
 <img align="right" alt="GIF" src="https://github.com/neoighodaro/neoighodaro/blob/master/5CEBA381-C26B-42C7-B5DD-DBEF3BC73697.gif" width="1000" height="320" />
@@ -26,9 +26,9 @@
 - 👯 I’m looking to collaborate for **more backend projects**
 - 🤝 I’m looking for help to **enhance my skills**
 - 💬 Ask me about ... Anything
-- 📫 If you want to talk to me feel free to email me at `rav8657@gmail.com`
+- 📫 If you want to talk to me feel free to email me at `shreyasvishal@gmail.com`
 - 🙇‍♂️ Languages : `English` `Hindi`
-- 📄 Know about my experiences https://rav8657.github.io/sourav.github.io/
+<!-- - 📄 Know about my experiences https://rav8657.github.io/sourav.github.io/ -->
 
 
 <br />
@@ -36,14 +36,14 @@
 
 ## Connect with Me
 <p align="left" target="_blank"> 
-<a href="https://www.linkedin.com/in/sourav-shukla/" target="_blank">
+<a href="https://www.linkedin.com/in/vishal-shreyas-12b42918b/" target="_blank">
 <img alt=" Linkedin" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif"  width="50" height="50"><a/>
  
-<a href="https://twitter.com/@tweet2srv" >
+<a href="https://twitter.com/@vshlshrs" >
 <img alt=" twitter"src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="70"
 height="40" target="_blank"><a />
         
-  <a href="https://www.instagram.com/100_raav/" target="_blank">
+  <a href="https://www.instagram.com/vishalshreyas/" target="_blank">
   <img alt=" Instagram" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"  width="40" height="40">
 <a/>
 </p>
@@ -87,21 +87,21 @@ height="40" target="_blank"><a />
 <table align="center" cellspacing="0" cellpadding="0" border="0">
    <tr>
     <td>
-      <a href="https://github.com/rav8657" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api?username=rav8657&show_icons=true&include_all_commits=true&theme=ayu-mirage&hide_border=true" alt="sourav's github stats">
+      <a href="https://github.com/vishalshreyas" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api?username=vishalshreyas&show_icons=true&include_all_commits=true&theme=ayu-mirage&hide_border=true" alt="Vishal Shreyas' github stats">
       <a/>
     </td>
     <td>
-      <a href="https://github.com/rav8657" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rav8657&theme=ayu-mirage&layout=compact&hide_border=true" alt="sourav's language stats">
+      <a href="https://github.com/vishalshreyas" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalshreyas&theme=ayu-mirage&layout=compact&hide_border=true" alt="Vishal Shreyas' language stats">
       <a/>
     </td>
    </tr>
   <tr>
   <tr>
     <td>
-      <a href="https://github.com/rav8657" target="_blank">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=rav8657&theme=ayu-mirage&hide_border=true" alt="sourav streak stats">
+      <a href="https://github.com/vishalshreyas" target="_blank">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishalshreyas&theme=ayu-mirage&hide_border=true" alt="Vishal Shreyas streak stats">
       <a/>
     </td>
    
