@@ -21,13 +21,13 @@
 <!-- ##  Open-Source enthusiast || Coder !! -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=About+me!+&#129321;)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on **Some backend projects**
-- 🌱 I’m currently learning **nodeJs,MongoDB,Express,Redis**
-- 👯 I’m looking to collaborate for **more backend projects**
+- 🔭 I’ve worked on **6 backend projects**
+- 🌱 I’m currently proficient in **NodeJS,MongoDB,Express,Redis**
+- 👯 I’m looking to collaborate in **more backend projects**
 - 🤝 I’m looking for help to **enhance my skills**
 - 💬 Ask me about ... Anything
 - 📫 If you want to talk to me feel free to email me at `shreyasvishal@gmail.com`
-- 🙇‍♂️ Languages : `English` `Hindi`
+- 🙇‍♂️ Languages : `English` `Hindi` `Telugu`
 <!-- - 📄 Know about my experiences https://rav8657.github.io/sourav.github.io/ -->
 
 
