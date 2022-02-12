@@ -22,7 +22,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=About+me!+&#129321;)](https://git.io/typing-svg)
 
 - 🔭 I’ve worked on **6 backend projects**
-- 🌱 I’m currently proficient in **NodeJS,MongoDB,Express,Redis**
+- 🌱 I’m currently proficient in **NodeJS,MongoDB,Express**
 - 👯 I’m looking to collaborate in **more backend projects**
 - 🤝 I’m looking for help to **enhance my skills**
 - 💬 Ask me about ... Anything
